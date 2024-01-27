@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-ChatClient/Pods-ChatClient-frameworks.sh
+${BUILT_PRODUCTS_DIR}/StreamChat/StreamChat.framework
+${BUILT_PRODUCTS_DIR}/StreamChatUI/StreamChatUI.framework

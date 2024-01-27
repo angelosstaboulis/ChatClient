@@ -1,0 +1,21 @@
+PODS:
+  - StreamChat (4.47.1)
+  - StreamChatUI (4.47.1):
+    - StreamChat (= 4.47.1)
+
+DEPENDENCIES:
+  - StreamChat
+  - StreamChatUI
+
+SPEC REPOS:
+  trunk:
+    - StreamChat
+    - StreamChatUI
+
+SPEC CHECKSUMS:
+  StreamChat: e39ee21ab5bbe2c1a267c0c46c04daca0e83c796
+  StreamChatUI: 859504c6cf464dfece8242c989dfe976d1566494
+
+PODFILE CHECKSUM: 53d314be91b18076580bd970442f91ab92d89063
+
+COCOAPODS: 1.14.3
